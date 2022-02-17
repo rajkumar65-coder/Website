@@ -1019,7 +1019,7 @@ services__icon {
     height: calc(var(--header-height) + 1rem);
   }
   .nav__logo{
-    margin-left: 2rem;
+    margin: 1rem;
     font-size: larger;
   }
   .nav__menu {
