@@ -150,9 +150,9 @@ body.light-theme {
 }
 
 .light-theme .home__social:after,
-.light-theme .footer__social {
+/* .light-theme .footer__social {
   background-color: var(--title-color);
-}
+} */
 
 .light-theme .home__social-link,
 .light-theme .home__scroll,
