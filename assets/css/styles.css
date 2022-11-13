@@ -743,7 +743,7 @@ services__icon {
 }
 
 .contact__info {
-  display: grid;
+  display: flex;
   gap: 1rem;
 }
 
